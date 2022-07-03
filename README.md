@@ -37,3 +37,4 @@ systems.
 
 ## Data
 - The data used in this study was obtained through the Papers With Code platform. To reproduce the same results, the same data can be downloaded in : <https://doi.org/10.5281/zenodo.6788250>
+- The data obtained both after web scrapping and after the preprocess can be found in : <https://doi.org/10.5281/zenodo.6788314>
