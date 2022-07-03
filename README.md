@@ -34,3 +34,6 @@ systems.
 - In *models* the different models built to answer both research questions are found.
 - In *results* different csv files keep the hyperparameter tuning results of all models.
 - TFM_Maria_Ayuso is the Master Thesis document associated with this repository.
+
+## Data
+- The data used in this study was obtained through the Papers With Code platform. To reproduce the same results, the same data can be downloaded in : <https://doi.org/10.5281/zenodo.6788250>
